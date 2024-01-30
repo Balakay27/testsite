@@ -1,0 +1,19 @@
+html {
+    background-color: azure;
+}
+body {
+    min-height: 100vh;
+    max-width: 850px;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 105%;
+}
+
+header h2 {
+    font-size: 250%;
+    text-align: center;
+    margin-top: 15px;
+}
+.bannerimage {
+    max-width: 500px;
+}
